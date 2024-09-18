@@ -1,12 +1,34 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-<br/><br/>
+# Olá! 👨‍💻🚀
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)
-<br/>
+Sou dev apaixonado por **tecnologia**.💡
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![vaca polonesa](https://media3.giphy.com/media/4mXjpVNJAFlvi/giphy.gif?cid=ecf05e47pmxqpp444jpf7n5geuqrcrwfgf460du3wj0mnxdg&rid=giphy.gif&ct=g)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+---
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)⠀⠀⠀⠀⠀⠀![vaca polonesa](https://c.tenor.com/5jpxCVc4hHgAAAAC/cow-dancing.gif)
-⠀⠀⠀⠀⠀⠀⠀
+## 🛠️ Tecnologias e Ferramentas
 
-<br/>
+- **Linguagens:** 🧑‍💻 Java, Python,C/C++
+- **Front-end:** ⚛️ TailwindCSS, 🌐 HTML, 🎨 CSS
+- **Back-end:** 🖥️ Node.js, 🐍 Django, 🧰 Flask
+- **Banco de Dados:** 💾 Postgree, 🍃 MongoDB
+- **Ferramentas:** 🛠️ Git, 🐳 Docker, 🖊️ VSCode
+
+---
+
+## 🌱 O que estou aprendendo
+
+- Desenvolvimento Full-Stack com **React** e **Node.js** 💻
+- **Segurança da informação** 📟
+
+---
+
+## 📂 Meus Projetos
+
+1. **[Projeto 1](#)**: 🚀 Um projeto incrível que faz X, Y e Z.
+2. **[Projeto 2](#)**: 💡 Solução criativa para resolver tal problema.
+3. **[Projeto 3](#)**: 🔧 Ferramenta útil para desenvolvedores.
+
+---
+
+## 📫 Como me encontrar?
+
+- LinkedIn: [https://www.linkedin.com/in/vinicius-meyrelles-335a3724a/ 💼
