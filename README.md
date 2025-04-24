@@ -14,18 +14,11 @@ Sou dev apaixonado por **tecnologia**.💡
 
 ---
 
-## 🌱 O que estou aprendendo
-
-- Desenvolvimento Full-Stack com **React** e **Node.js** 💻
-- **Segurança da informação** 📟
-
----
-
 ## 📂 Meus Projetos
 
-1. **[Projeto 1](#)**: 🚀 Um projeto incrível que faz X, Y e Z.
-2. **[Projeto 2](#)**: 💡 Solução criativa para resolver tal problema.
-3. **[Projeto 3](#)**: 🔧 Ferramenta útil para desenvolvedores.
+1. **[Projeto 1](#)**: 🚀 
+2. **[Projeto 2](#)**: 💡 
+3. **[Projeto 3](#)**: 🔧 
 
 ---
 
